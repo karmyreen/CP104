@@ -1,0 +1,54 @@
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Gurkarman Reen 
+ID:      169030008
+Email:   reen0008@mylaurier.ca
+Version: 2022-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+The radius of the circle: 2.5
+Result in (cm): 15.71
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Here is the adjacent side: 3.0
+Here is the opposite side: 4.0
+(5.0,12.0,6.0)
+This is hypo: 5.0 
+
+This the circumference of triangle: 12.0
+
+This is area of triangle: 6.0
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+Cost of one computer: 1399
+The number of computers bought: 87
+The commission in decimal: 8.5
+ (121713.00,132058.61)
+This is pre-commission cost: 121713.00
+This total cost with commission cost: 132058.61
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+Input the degrees in celsius: 0
+Here is the temperature in Fahrenheit: 32
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+Input the initial amount of seconds956000
+(11,1,33,20) 
+ number of days: 11 number of hours: 1 number of minutes 33 number of seconds 20 
+
+-------------------------------------------------------
+
+-------------------------------------------------------

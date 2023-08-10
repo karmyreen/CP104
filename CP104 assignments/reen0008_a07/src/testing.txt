@@ -1,0 +1,86 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Gurkarman Reen 
+ID:      169030008
+Email:   reen0008@mylaurier.ca
+Version: 2022-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+[1, 3, 23]
+
+[1, 3]
+
+[1, 3, 7]
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive value: 1
+Enter a positive value: 2
+Enter a positive value: 3
+Enter a positive value: 4
+Enter a positive value: -50
+Enter a positive value: -60
+Enter a positive value: -1
+Enter a positive value: -2
+Enter a positive value: 0
+[1, 2, 3, 4]
+
+Enter a positive value: -50
+Enter a positive value: 2
+Enter a positive value: -10
+Enter a positive value: 100
+Enter a positive value: 200
+Enter a positive value: -40
+Enter a positive value: -1
+Enter a positive value: 0
+[2, 100, 200]
+
+Enter a positive value: 50
+Enter a positive value: -50
+Enter a positive value: 40
+Enter a positive value: -50
+Enter a positive value: -40
+Enter a positive value: 22
+Enter a positive value: 21
+Enter a positive value: 41
+Enter a positive value: -5
+Enter a positive value: 0
+[50, 40, 22, 21, 41]
+
+ 
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[1, 4, 5]
+
+[5, 6]
+
+[0, 3, 4, 7]
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+[4, 8, 9]
+
+[3, 5, 4, 8, 9]
+
+[7, 3, 7, 5, 4, 7, 8, 7]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+True -1
+
+False 1
+
+False 4
+-------------------------------------------------------
+
+-------------------------------------------------------

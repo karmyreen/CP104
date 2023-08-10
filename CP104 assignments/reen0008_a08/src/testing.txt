@@ -1,0 +1,73 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Gurkarman Reen 
+ID:      169030008
+Email:   reen0008@mylaurier.ca
+Version: 2022-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What string do you want to input: HiMyNameIsGurkarman
+Hi my name is gurkarman
+
+What string do you want to input: StopAndSmellTheRoses
+Stop and smell the roses
+
+What string do you want to input: WelcomeToTheGreatestShowOnEarth
+Welcome to the greatest show on earth
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What word do you want to pluralize: Banana
+Bananas
+
+What word do you want to pluralize: Popeyes
+Popeyeses
+
+What word do you want to pluralize: fly
+flies
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Input first string: Danger
+Input second string: Manager
+ger
+
+Input first string: fishing
+Input second string: marking
+ing
+
+Input first string: apples
+Input second string: cars
+s
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Input a isbn: 978-3-12148410--0
+False
+
+Input a isbn: 978-3-16-148410-0
+True
+
+Input a isbn: 979-5-13-600009-1
+True
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Input a word chain: ['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+True
+
+Input a word chain: [cars,light,men]
+False
+
+Input a word chain: ['men,'need','drastic','change']
+True
+-------------------------------------------------------
+
+-------------------------------------------------------

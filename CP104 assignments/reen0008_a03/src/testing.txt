@@ -1,0 +1,100 @@
+-------------------------------------------------------
+Assignment  Testing
+-------------------------------------------------------
+Author:  Gurkarman Reen 
+ID:      169030008
+Email:   reen0008@mylaurier.ca
+Version: 2022-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is the square footage: 100000
+2.30 acres is equivalent to 100,000.00 square feet
+-------------------------------------------------------
+What is the square footage: 150000
+3.44 acres is equivalent to 150,000.00 square feet
+-------------------------------------------------------
+What is the square footage: 5000
+0.11 acres is equivalent to 5,000.00 square feet
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is width (m): 20
+What is length (m): 50
+what is the speed (m^2/minute): 4
+Mowing the lawn takes 250 minutes
+
+-------------------------------------------------------
+What is width (m): 1.5
+What is length (m): 2.5
+what is the speed (m^2/minute): 5.5
+Mowing the lawn takes 1 minutes
+-------------------------------------------------------
+What is width (m): 3.0
+What is length (m): 5.0
+what is the speed (m^2/minute): 7.0
+Mowing the lawn takes 4 minutes
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+What is the date number(MMDDYYYY): 10202004
+2004/10/20
+-------------------------------------------------------
+What is the date number(MMDDYYYY): 09092003
+2003/09/09
+-------------------------------------------------------
+What is the date number(MMDDYYYY): 9112001
+2001/09/11
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Input first numerator: 1
+Input second numerator: 2
+Input first denominator: 3
+Input second denominator: 4
+Result: 3/8 = 0.375
+-------------------------------------------------------
+Input first numerator: 4
+Input second numerator: 3
+Input first denominator: 2
+Input second denominator: 1
+Result: 8/3 = 2.667
+-------------------------------------------------------
+Input first numerator: 6
+Input second numerator: 9
+Input first denominator: 4
+Input second denominator: 20
+Result: 24/180 = 0.133
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+    2
++ 356
+Your Answer: 358
+
+Your answer:     358
+Expected:        358
+-------------------------------------------------------
+  899
++  52
+Your Answer: 951
+
+Your answer:     951
+Expected:        951
+-------------------------------------------------------
+  801
++ 683
+Your Answer: 10031
+
+Your answer:   10031
+Expected:       1484
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
